@@ -1,6 +1,6 @@
 # Pitzi Ruby Challenge Backend API
 
-Desenvolvimento de uma API para realização de registo de assinaturas.
+Desenvolvimento de uma API para realização de registro de assinaturas.
 
 ## Como rodar
 
